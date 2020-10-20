@@ -125,6 +125,9 @@ Answer project questions as you go along
     - the search for Douglass may return too many items
     - creating relations between items may prove difficult (connect based on item topics array?)
 
+- DATA: https://docs.google.com/spreadsheets/d/1qNyLvMnyF73mM-6pX5UvgbcC2TWL7Fx5X5TSHJw5YcE/edit#gid=0
+- Visual: https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qNyLvMnyF73mM-6pX5UvgbcC2TWL7Fx5X5TSHJw5YcE&font=Default&lang=en&initial_zoom=2&height=800
+
 *Design concept 3*
 ![sketch title](sketch_url)
 
