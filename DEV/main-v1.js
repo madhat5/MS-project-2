@@ -18,7 +18,7 @@
 
 /* ============================ */
 // put your API key here;
-const apiKey = "LsKWCorPYAHUySjA1Um5X5K7TrAyCNnaVmFO0alc";  
+const apiKey = "";  
 // search base URL
 const searchBaseURL = "https://api.si.edu/openaccess/api/v1.0/search";
 let dataRows = 500;
