@@ -1,5 +1,13 @@
 ## Qualitative Project Concept & Sketches
 
+- DATA
+    > https://docs.google.com/spreadsheets/d/1qNyLvMnyF73mM-6pX5UvgbcC2TWL7Fx5X5TSHJw5YcE/edit#gid=0
+    > https://docs.google.com/spreadsheets/d/142DkxnqpaQtYzlGNL7QBLl_T_0P-PGtPoPH8tMhSm_g/edit#gid=0
+- Visual
+    > https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qNyLvMnyF73mM-6pX5UvgbcC2TWL7Fx5X5TSHJw5YcE&font=Default&lang=en&initial_zoom=2&height=800
+    > https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=142DkxnqpaQtYzlGNL7QBLl_T_0P-PGtPoPH8tMhSm_g&font=Default&lang=en&initial_zoom=2&height=800
+
+
 **Project Approach**
 Answer project questions as you go along
 1. Audience questions
@@ -100,6 +108,16 @@ Answer project questions as you go along
     - How is F. Douglass' life represented accross the museums?
     - How would a researcher use this data to organize the Smithsonian collection?
 
+*NEXT*
+- add color coding 
+    - by institution?
+    - by object type (x)
+- add context/notes (x)
+- add legacy items (>1900) 
+- can i have entire timeline shown at once? (x)
+    - yes (zoom in/out + back to start buttons)
+- add styles?
+
 2. Data set
     - Art galleries, NMAAHC
     - Using the item descriptions to find FD.
@@ -125,8 +143,6 @@ Answer project questions as you go along
     - the search for Douglass may return too many items
     - creating relations between items may prove difficult (connect based on item topics array?)
 
-- DATA: https://docs.google.com/spreadsheets/d/1qNyLvMnyF73mM-6pX5UvgbcC2TWL7Fx5X5TSHJw5YcE/edit#gid=0
-- Visual: https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qNyLvMnyF73mM-6pX5UvgbcC2TWL7Fx5X5TSHJw5YcE&font=Default&lang=en&initial_zoom=2&height=800
 
 *Design concept 3*
 ![sketch title](sketch_url)
